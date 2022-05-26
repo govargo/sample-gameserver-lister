@@ -8,7 +8,7 @@ This sample program shows Agones gameserver's name and state and IPs(external/in
 ```bash
 # for example
 minikube start --driver hyperkit
-``` 
+```
 
 2. Install Agones
 ```bash
